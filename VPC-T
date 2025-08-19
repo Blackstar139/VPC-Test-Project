@@ -1,7 +1,7 @@
 #code commit chnages 
 # Configure the AWS provider
 provider "aws" {
-  region = "us-east-1"
+  region = "uk-west-2"
 }
 
 # Create a VPC
